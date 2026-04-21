@@ -22,11 +22,25 @@ ul li a:hover {
   background-color: #6e7370;
 }
 
-h1,h3{
+h1,h3,h2{
   text-align: center;
 
 }
 
 body{
-  background-color: #6e7370 ;
+  background-color: #463030 ;
+}
+
+h1 ,h2{
+  color:white;
+}
+
+.aboutMe{
+  display: flex;  
+  flex-wrap: wrap;
+
+}
+
+.has-text-light{
+  size:12px;
 }
